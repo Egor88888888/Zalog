@@ -2,12 +2,12 @@
 const nextConfig = {
   reactStrictMode: true,
   typescript: {
-    // cat next.config.js WARN cat next.config.js
+    // !! WARN !!
     // Dangerously allow production builds to successfully complete even if
     // your project has type errors.
-    // cat next.config.js WARN cat next.config.js
+    // !! WARN !!
     ignoreBuildErrors: true,
   },
 }
 
-module.exports = nextConfig
+module.exports = nextConfig 

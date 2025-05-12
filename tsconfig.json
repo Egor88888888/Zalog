@@ -32,7 +32,8 @@
         "interfaces/*"
       ]
     },
-    "incremental": true
+    "incremental": true,
+    "noErrorTruncation": true
   },
   "include": [
     "next-env.d.ts",
@@ -42,4 +43,4 @@
   "exclude": [
     "node_modules"
   ]
-}
+} 

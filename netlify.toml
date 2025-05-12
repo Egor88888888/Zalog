@@ -6,5 +6,8 @@
   NETLIFY_NEXT_PLUGIN_SKIP = "true"
   NEXT_IGNORE_TYPESCRIPT_ERRORS = "true"
 
+[functions]
+  included_files = ["node_modules/@prisma/client/query_engine-*"]
+
 [[plugins]]
-  package = "@netlify/plugin-nextjs"
+  package = "@netlify/plugin-nextjs" 
