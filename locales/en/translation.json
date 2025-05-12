@@ -1,0 +1,14 @@
+{
+  "title": "Pledge Lending Demo Platform",
+  "selectRole": "Select role",
+  "client": "Client",
+  "staff": "Bank staff",
+  "selectScenario": "Select demo scenario",
+  "ideal": "Ideal client",
+  "gray": "Client with non-standard situation",
+  "reject": "Rejection and new application",
+  "error": "Technical error",
+  "selectLanguage": "Language",
+  "next": "Next",
+  "login": "Login"
+} 

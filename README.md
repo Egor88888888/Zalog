@@ -1,6 +1,31 @@
-# TypeScript Next.js example
+# Demo Pledge Platform
 
-This is a really simple project that shows the usage of Next.js with TypeScript.
+Интерактивная демо-платформа для залогового кредитования (ипотека и автокредиты).
+
+## Основные возможности
+- Полный цикл: от заявки до выдачи и оформления залога
+- Современный UI/UX (Material UI, анимации)
+- Мультиязычность (RU/EN)
+- Имитация интеграций и сценариев
+- Демо-режим для разных типов клиентов
+
+## Запуск
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## Структура проекта
+- `pages/` — страницы и роутинг
+- `components/` — UI и бизнес-компоненты
+- `modules/` — бизнес-логика (заявки, скоринг и т.д.)
+- `api-mock/` — имитация API
+- `locales/` — переводы
+- `utils/` — вспомогательные функции
+- `styles/` — глобальные стили и тема
 
 ## Deploy your own
 
